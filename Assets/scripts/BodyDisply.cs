@@ -14,3 +14,6 @@ public class BodyDisply : MonoBehaviour {
 		Debug.Log(renderers.Length);
 	}
 }
+
+
+// Waht up Aaron
