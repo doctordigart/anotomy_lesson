@@ -16,4 +16,4 @@ public class BodyDisply : MonoBehaviour {
 }
 
 
-// Waht up Aaron
+// What up Aaron how is your day buddy?
